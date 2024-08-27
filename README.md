@@ -1,5 +1,5 @@
 # Steganography with Convolutional Neural Networks
-Kaggle Notebook: https://www.kaggle.com/code/cheesecke/steganography-using-deep-learning/
+Colab Notebook: [https://www.kaggle.com/code/cheesecke/steganography-using-deep-learning/](https://colab.research.google.com/drive/1-NqW941PbfTaKwn5T1Qs6x77k4VVUzkA)
 
 
 This project implements a deep learning-based approach to image steganography using Convolutional Neural Networks (CNNs). The goal is to hide a secret image within a cover image, enabling the transmission of hidden data without noticeable changes to the cover image. The implementation uses the Tiny ImageNet dataset for training and testing the model.
